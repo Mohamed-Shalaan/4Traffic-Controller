@@ -15,8 +15,8 @@
 ## ➤ Table of Contents
 
 * [➤ Introduction & Hypothesis](#-Introduction-&-Hypothesis)
-* [➤ Getting Started](#-getting-started)
-* [➤ Designs](#designs)
+* [➤ Tools and Components](#-tools-and-components)
+* [➤ Diagrams](#diagrams)
 * [➤ How can I support you?](#how-can-i-support-you)
 * [➤ Contributors](#-contributors-1)
 * [➤ License](#-license-1)
@@ -39,7 +39,7 @@ This includes :
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#getting-started-quick)
 
-## ➤ Getting Started
+## ➤ Tools and Components
 
 This getting started guide is how far we are from. Anyone is welcomed to hop in and help us improve the application.
 
@@ -73,7 +73,7 @@ To be made :
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#templates)
 
-## ➤ Designs
+## ➤ Diagrams
 
 You will find here images of the screens made (or to be made)
 Don't hesitate to hop in !
