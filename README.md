@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Assets/header.png" alt="Logo" width="1200" height="680" />
+  <img src="Assets/headr2.jpg" alt="Logo" width="1200" height="680" />
 </p>
 
 <h1 align="center">4Traffic Controller</h1>
@@ -26,15 +26,9 @@
 
 ## ➤ Introduction & Hypothesis
 
-This is an app made by a student, for students, to have a safe community hub.
-
-This includes :
-
-* ➤ Email Uni verification
-
-* ➤ Safe posts/chats between students
-
-* ➤ Uni communities as groups
+This traffic light controller will be used to control the flow of traffic.
+These can be applied at high traffic areas to avoid traffic blocks or accidents.
+The main part of this project is the Arduino which will control the LEDs and their timings to guide the vehicles.
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#getting-started-quick)
 
