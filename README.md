@@ -42,10 +42,10 @@ This includes :
 
 This getting started guide is how far we are from. Anyone is welcomed to hop in and help us improve the application.
 
-| Component XQuantity |    thumbnail     |
-|---------------------|------------------|
-| Arduino Mega 2560 x1 | ![](./Assets/mega.png)   |
+| Component Xquantity  |    Thumbnail     |
+|--------------------- |------------------|
 | Arduino Mega 2560 x1 |<img src="./Assets/mega.png" width="200" height="200" /> |
+| Ultrasonic Sensor HC-SR04 (x4) | <img src="Assets/Ultrasonic_Distance_Sensor_.png" width="200" height="200" />|
 | Messages | https://i.imgur.com/N1isGsF.png |
 | Messages | https://i.imgur.com/N1isGsF.png |
 | Messages | https://i.imgur.com/N1isGsF.png |
