@@ -65,7 +65,7 @@ The main part of this project is the Arduino which will control the LEDs and the
 
  <b>Circuit Diagram</b></br>
  <p align="center">
-  <img src="Assets/CircuitDiagram.png" />
+  <img src="Assets/StateDiagram2.PNG" />
 </p>
 
 
