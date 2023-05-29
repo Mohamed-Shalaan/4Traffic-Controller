@@ -1,4 +1,4 @@
-![Header](https://i.ibb.co/t32kwj9/header.jpg)
+![Header](https://i.ibb.co/t32kwj9/header.jpg  width="680" height="1200" )
 </p>
 <h1 align="center">Uni</h1>
 <p align="center">
