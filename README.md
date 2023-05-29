@@ -9,6 +9,9 @@
     <a href="https://github.com/Mohamed-Shalaan/4Traffic-Controller/graphs/commit-activity">
         <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="maintenance" />
  </a>
+   <a href="https://devault.vercel.app/">
+        <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" alt="website" />
+    </a>
 
     <a href="https://github.com/AbdeltwabMF/devault/blob/main/LICENSE">
         <img src="https://img.shields.io/github/license/AbdeltwabMF/devault?logo=gnu&.svg" alt="license" />
