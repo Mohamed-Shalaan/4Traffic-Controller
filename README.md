@@ -1,12 +1,7 @@
 <img src="https://i.ibb.co/t32kwj9/header.jpg" width="1200" height="680">
 </p>
-<h1 align="center">Uni</h1>
-<p align="center">
-		<a href="https://npmcharts.com/compare/@uni-flutter-app/readme?minimal=true"><img alt="Downloads per month" src="https://img.shields.io/npm/dm/@miatheunistudent/readme.svg" height="20"/></a>
-<a href="https://www.npmjs.com/package/@uni-flutter-app/readme"><img alt="NPM Version" src="https://img.shields.io/npm/v/miatheunistudent/readme.svg" height="20"/></a>
-<a href="https://github.com/miatheunistudent/readme/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/miatheunistudent/readme.svg" height="20"/></a>
-<a href="https://github.com/miatheunistudent/readme/graphs/commit-activity"><img alt="Maintained" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" height="20"/></a>
-	</p>
+
+</p>
 
 <p align="center">
   <b>Welcome to this amazing community project, created to build an amazing app for us students</b></br>
