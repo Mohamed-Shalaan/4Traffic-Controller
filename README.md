@@ -42,10 +42,10 @@ This includes :
 
 This getting started guide is how far we are from. Anyone is welcomed to hop in and help us improve the application.
 
-| Name     |            Link                 |
-|----------|---------------------------------|
-| Arduino Mega 2560     | ![](./Assets/mega.png)   |
-| Messages | https://i.imgur.com/N1isGsF.png |
+| Component XQuantity |    thumbnail     |
+|---------------------|------------------|
+| Arduino Mega 2560 x1 | ![](./Assets/mega.png)   |
+| Arduino Mega 2560 x1 |<img src="./Assets/mega.png" width="200" height="200" /> |
 | Messages | https://i.imgur.com/N1isGsF.png |
 | Messages | https://i.imgur.com/N1isGsF.png |
 | Messages | https://i.imgur.com/N1isGsF.png |
