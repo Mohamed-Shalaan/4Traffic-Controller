@@ -5,8 +5,7 @@
 <h1 align="center">4Traffic Controller</h1>
 <h4 align="center">An Arduino-based, small scale, cross-traffic controller .</h4>
 
-  <b>Welcome to our mini arduino project,
-   created to showcase the usage of automation in solving real-life problems</b></br>
+  <b>Welcome to our mini arduino project, created to showcase the usage of automation in solving real-life problems</b></br>
   <sub> Traffic jam is one of the most common problems in modern society, and among many solutions comes the idea of automating a model to anticipate and the solve the jamming logically, and for the purpose of demonstration this project is written in C++ and implemented on Arduino-Mega chip.<sub>
 </p>
 
@@ -59,10 +58,15 @@ The main part of this project is the Arduino which will control the LEDs and the
 
 ## ➤ Diagrams
 
-You will find here images of the screens made (or to be made)
-Don't hesitate to hop in !
+ <b>State Diagram</b></br>
+<p align="center">
+  <img src="Assets/StateDiagram2.PNG" />
+</p>
 
-Figma file : [Figma template](https://www.figma.com/file/iAYXkVJbIJ273gnuGgQ73u/Uni?node-id=0%3A1)
+ <b>Circuit Diagram</b></br>
+ <p align="center">
+  <img src="Assets/CircuitDiagram.png" />
+</p>
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#license)
