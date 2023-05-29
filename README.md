@@ -16,7 +16,7 @@
 
 * [➤ Introduction & Hypothesis](#-Introduction-&-Hypothesis)
 * [➤ Tools and Components](#-tools-and-components)
-* [➤ Diagrams](#diagrams)
+* [➤ Diagrams](#Diagrams)
 * [➤ Contributors](#-contributors)
 * [➤ License](#-license)
 </details>
