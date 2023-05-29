@@ -5,6 +5,9 @@
 <h1 align="center">4Traffic Controller</h1>
 
 <div align="center">
+    <a href="https://github.com/Mohamed-Shalaan/4Traffic-Controller/graphs/commit-activity">
+        <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="maintenance" />
+    </a>
   
     <a href="https://devault.vercel.app/">
         <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" alt="website" />
