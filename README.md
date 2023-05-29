@@ -1,4 +1,4 @@
-![Header](./Assets/Capture 1.JPG)
+![Header](https://i.ibb.co/t32kwj9/header.jpg)
 </p>
 <h1 align="center">Uni</h1>
 <p align="center">
