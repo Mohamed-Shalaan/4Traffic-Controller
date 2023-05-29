@@ -9,15 +9,6 @@
   <sub> Traffic jam is one of the most common problems in modern society, and among many solutions comes the idea of automating a model to anticipate and the solve the jamming logically, and for the purpose of demonstration this project is written in C++ and implemented on Arduino-Mega chip.<sub>
 </p>
 
-<br />
-
-* **Safe**: Only verified students (with emails) could use the app!
-* **Powerful**: Let's gather a safe place for us students without being worried about trolls and all the bad social side.
-* **Awesome**: Easy to use, universities news on the go from the home page and so on!
-
-<details>
-<summary>📖 Table of Contents</summary>
-<br />
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
