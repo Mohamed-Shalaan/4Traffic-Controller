@@ -1,4 +1,4 @@
-![4Traffic-Controller Banner](./Assets/Capture 1.JPG)
+[![4Traffic-Controller](./Assets/Capture 1.JPG)
 
 </p>
 <h1 align="center">Uni</h1>
