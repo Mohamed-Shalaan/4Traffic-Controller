@@ -4,22 +4,7 @@
 <!-- <img src="https://i.ibb.co/t32kwj9/header.jpg" width="1200" height="680"> -->
 
 
-<p align="center">
-  <b>Welcome to this amazing community project, created to build an amazing app for us students</b></br>
-  <sub>Hop in and help us create a safe community students app, where students can talk and share their matters and get updated about Uni life and decisions easily during this lockdown period and even after. You're all to know we're under lockdown in Europe, and I'm trying to build a safe hub, where students can help each other and talk freely.<sub>
-</p>
 
-<br />
-
-* **Safe**: Only verified students (with emails) could use the app!
-* **Powerful**: Let's gather a safe place for us students without being worried about trolls and all the bad social side.
-* **Awesome**: Easy to use, universities news on the go from the home page and so on!
-
-<details>
-<summary>📖 Table of Contents</summary>
-<br />
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ## ➤ Table of Contents
 
