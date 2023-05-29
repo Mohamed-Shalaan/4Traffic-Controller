@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Assets/header.png" alt="Logo" width="200" height="200" />
+  <img src="./Assets/header.png" alt="Logo" width="1200" height="680" />
 </p>
 <h1 align="center">Uni</h1>
 <p align="center">
