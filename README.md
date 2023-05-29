@@ -5,8 +5,8 @@
 <h1 align="center">4Traffic Controller</h1>
 <h4 align="center">An Arduino-based, small scale, cross-traffic controller .</h4>
 
-  <b>Welcome to this amazing community project, created to build an amazing app for us students</b></br>
-  <sub>Hop in and help us create a safe community students app, where students can talk and share their matters and get updated about Uni life and decisions easily during this lockdown period and even after. You're all to know we're under lockdown in Europe, and I'm trying to build a safe hub, where students can help each other and talk freely.<sub>
+  <b>Welcome to our mini arduino project, created to showcase the usage of automation in solving real-life problems</b></br>
+  <sub> Traffic jam is one of the most common problems in modern society, and among many solutions comes the idea of automating a model to anticipate and the solve the jamming logically, and for the purpose of demonstration this project is written in C++ and implemented on Arduino-Mega chip.<sub>
 </p>
 
 <br />
