@@ -14,7 +14,7 @@
 
 ## ➤ Table of Contents
 
-* [➤ Description](#-description)
+* [➤ Introduction & Hypothesis](#-Introduction-&-Hypothesis)
 * [➤ Getting Started](#-getting-started)
 * [➤ Designs](#designs)
 * [➤ How can I support you?](#how-can-i-support-you)
@@ -25,7 +25,7 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#installation)
 
-## ➤ Description
+## ➤ Introduction & Hypothesis
 
 This is an app made by a student, for students, to have a safe community hub.
 
