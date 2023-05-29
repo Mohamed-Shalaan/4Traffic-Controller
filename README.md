@@ -17,9 +17,8 @@
 * [➤ Introduction & Hypothesis](#-Introduction-&-Hypothesis)
 * [➤ Tools and Components](#-tools-and-components)
 * [➤ Diagrams](#diagrams)
-* [➤ How can I support you?](#how-can-i-support-you)
-* [➤ Contributors](#-contributors-1)
-* [➤ License](#-license-1)
+* [➤ Contributors](#-contributors)
+* [➤ License](#-license)
 </details>
 
 
@@ -99,15 +98,3 @@ Coming :)
 
 Licensed under [MIT](https://opensource.org/licenses/MIT).
 
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#faq)
-
-## ➤ FAQ
-
-### How can I get involved?
-
-Create an issue or pull-request and help us improve the app.
-
-### How can I support you?
-
-There are lot's of ways to support me! I would be so happy if you hop in and help create an amazing app for us students ❤️
