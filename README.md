@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/headr2.jpg" alt="Logo" width="1200" height="680" />
+  <img src="Assets/Header3.PNG" />
 </p>
 
 <h1 align="center">4Traffic Controller</h1>
