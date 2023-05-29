@@ -39,9 +39,17 @@ This includes :
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#getting-started-quick)
 
 ## ➤ Tools and Components
- <b>Here is a list with all hardware components used in the project including quantities and thumbnail refrences </b></br>
+ <b>Here is a list with all hardware components used in the project </b></br>
 
-
+| Component   |    Quantity     |
+|-------------|-----------------|
+| Arduino Mega 2560  | (x1) |
+| Ultrasonic Sensor HC-SR04 | (x4) |
+| Generic LEDs Red-Green-Yellow | (x4) |
+| Generic Resistors 220 Ohm | (x12) |
+| Jumber Wires | (xN) |
+| Breadboards  | (x4) |
+<!--
 | Component Xquantity  |    Thumbnail     |
 |--------------------- |------------------|
 | Arduino Mega 2560 x1 |<img src="./Assets/mega.png" width="100" height="200" /> |
@@ -50,7 +58,7 @@ This includes :
 | Generic Resistors (x12) 220 Ohm | <img src="Assets/Resistors.png" width="100" height="200" /> |
 | Jumber Wires (xN) | <img src="Assets/wires.png" width="100" height="200" /> |
 | Breadboards (x4) | <img src="Assets/board.png" width="100" height="200" /> |
-
+-->
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#templates)
 
