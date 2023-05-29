@@ -4,51 +4,7 @@
 
 <h1 align="center">4Traffic Controller</h1>
 
-<div align="center">
-    <a href="https://github.com/Mohamed-Shalaan/4Traffic-Controller/graphs/commit-activity">
-        <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="maintenance" />
-    </a>
-  
-    <a href="https://devault.vercel.app/">
-        <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" alt="website" />
-    </a>
-    <a href="https://github.com/AbdeltwabMF/devault/blob/main/LICENSE">
-        <img src="https://img.shields.io/github/license/AbdeltwabMF/devault?logo=gnu&.svg" alt="license" />
-    <a>
-    <a href="https://github.com/AbdeltwabMF/devault/releases">
-        <img src="https://img.shields.io/github/release/AbdeltwabMF/devault.svg" alt="release" />
-    </a>
-    <a href="https://github.com/AbdeltwabMF/devault/graphs/contributors">
-        <img src="https://img.shields.io/github/contributors/AbdeltwabMF/devault.svg" alt="contributors" />
-    </a>
-    <a href="http://makeapullrequest.com">
-        <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="pull-request" />
-    </a>
-    <a href="https://standardjs.com">
-        <img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="style" />
-    </a>
-    <a href="https://hub.docker.com/r/abdeltwabmf/devault">
-        <img src="https://img.shields.io/docker/image-size/abdeltwabmf/devault/latest" alt="docker" />
-    </a>
-    <a href="https://github.com/AbdeltwabMF/devault">
-        <img src="https://img.shields.io/github/languages/top/AbdeltwabMF/devault" alt="languages" />
-    </a>
-    <a href="https://github.com/AbdeltwabMF/devault/CODE-OF-CONDUCT.md">
-        <img src="https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg" alt="code-of-conduct" />
-    </a>
-    <a href="https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AbdeltwabMF/devault&amp;utm_campaign=Badge_Grade">
-        <img src="https://app.codacy.com/project/badge/Grade/7abde45beb1a44ef858fb68e889a214e" alt="quality" />
-    </a>
-    <a href="https://github.com/AbdeltwabMF/devault/graphs/commit-activity">
-        <img src="https://img.shields.io/github/commit-activity/w/abdeltwabmf/devault" alt="commits" />
-    </a>
-    <a href="https://github.com/AbdeltwabMF/devault">
-        <img src="https://img.shields.io/tokei/lines/github/AbdeltwabMF/devault" alt="lines-of-code" />
-    </a>
-    <a href="https://matrix.to/#/#devault-community:matrix.org">
-        <img src="https://img.shields.io/matrix/devault-community:matrix.org" alt="chat" />
-    </a>
-</div>
+
   <b>Welcome to this amazing community project, created to build an amazing app for us students</b></br>
   <sub>Hop in and help us create a safe community students app, where students can talk and share their matters and get updated about Uni life and decisions easily during this lockdown period and even after. You're all to know we're under lockdown in Europe, and I'm trying to build a safe hub, where students can help each other and talk freely.<sub>
 </p>
