@@ -39,19 +39,18 @@ This includes :
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#getting-started-quick)
 
 ## ➤ Tools and Components
+ <b>Here is a list with all hardware components used in the project including quantities and thumbnail refrences </b></br>
 
-This getting started guide is how far we are from. Anyone is welcomed to hop in and help us improve the application.
 
 | Component Xquantity  |    Thumbnail     |
 |--------------------- |------------------|
 | Arduino Mega 2560 x1 |<img src="./Assets/mega.png" width="200" height="200" /> |
 | Ultrasonic Sensor HC-SR04 (x4) | <img src="Assets/Ultrasonic_Distance_Sensor_.png" width="200" height="200" />|
-| Messages | https://i.imgur.com/N1isGsF.png |
-| Messages | https://i.imgur.com/N1isGsF.png |
-| Messages | https://i.imgur.com/N1isGsF.png |
-| Messages | https://i.imgur.com/N1isGsF.png |
-| Messages | https://i.imgur.com/N1isGsF.png |
-| Messages | https://i.imgur.com/N1isGsF.png |
+| Generic LEDs (x4) Red-Green-Yellow | <img src="Assets/lights.png" width="200" height="200" |
+| Generic Resistors (x12) 220 Ohm | <img src="Assets/Resistors.png" width="200" height="200" /> |
+| Jumber Wires (xN) | <img src="Assets/wires.png" width="200" height="200" /> |
+| Breadboards (x4) | <img src="Assets/board.png" width="200" height="200" /> |
+
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#templates)
 
@@ -61,11 +60,6 @@ You will find here images of the screens made (or to be made)
 Don't hesitate to hop in !
 
 Figma file : [Figma template](https://www.figma.com/file/iAYXkVJbIJ273gnuGgQ73u/Uni?node-id=0%3A1)
-
-| Name     |            Link                 |
-|----------|---------------------------------|
-| Home     | https://imgur.com/ylpGmDK.png   |
-| Messages | https://i.imgur.com/N1isGsF.png |
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#license)
