@@ -16,7 +16,7 @@
 
 * [➤ Introduction & Hypothesis](#-Introduction-&-Hypothesis)
 * [➤ Tools and Components](#-tools-and-components)
-* [➤ Diagrams](#Diagrams)
+* [➤ Diagrams](#-diagrams)
 * [➤ Contributors](#-contributors)
 * [➤ License](#-license)
 </details>
@@ -42,33 +42,16 @@ This includes :
 
 This getting started guide is how far we are from. Anyone is welcomed to hop in and help us improve the application.
 
-Join the Discord server here : [Discord Server](https://discord.gg/93gDcmqABV)
-
-* **Police used** : Merriweather, SF Pro
-* **Icons used** : In the Assets folder :)
-* **Main colors used** : 002251, 0041C4
-
-What's almost ready :
-
-➤ Welcome page with splash screen ( Find images for splash screen)
-
-➤ Login page
-
-➤ Sign up page
-
-➤ Forgot password page
-
-To be made :
-
- ➤ Implement Firebase
-
- ➤ Edit sign-up page and add a dropdown list to select from .json list of uni
-
- ➤ Home page (news, posts feed like template)
-
- ➤ Messages page
-
- ➤ Profile page
+| Name     |            Link                 |
+|----------|---------------------------------|
+| Arduino Mega 2560     | ![](./Assets/mega.png)   |
+| Messages | https://i.imgur.com/N1isGsF.png |
+| Messages | https://i.imgur.com/N1isGsF.png |
+| Messages | https://i.imgur.com/N1isGsF.png |
+| Messages | https://i.imgur.com/N1isGsF.png |
+| Messages | https://i.imgur.com/N1isGsF.png |
+| Messages | https://i.imgur.com/N1isGsF.png |
+| Messages | https://i.imgur.com/N1isGsF.png |
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#templates)
 
