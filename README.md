@@ -1,7 +1,6 @@
-<img src="https://i.ibb.co/t32kwj9/header.jpg" width="1200" height="680">
-</p>
+![Braydon's GitHub Banner](https://i.ibb.co/t32kwj9/header.jpg)
+<!-- <img src="https://i.ibb.co/t32kwj9/header.jpg" width="1200" height="680"> -->
 
-</p>
 
 <p align="center">
   <b>Welcome to this amazing community project, created to build an amazing app for us students</b></br>
