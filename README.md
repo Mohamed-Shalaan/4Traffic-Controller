@@ -1,4 +1,4 @@
-![Header](./assets/Capture 1.JPG)
+![Header](./Assets/Capture 1.JPG)
 </p>
 <h1 align="center">Uni</h1>
 <p align="center">
