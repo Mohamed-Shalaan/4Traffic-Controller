@@ -3,7 +3,7 @@
 </p>
 
 # <h1 align="center">4Traffic Controller</h1>
-<h4 align="center">An Arduino-based, small scale, cross-traffic controller .</h4>
+An Arduino-based, small scale, cross-traffic controller
 
 
   <b>Welcome to our mini arduino project, created to showcase the usage of automation in solving real-life problems</b></br>
