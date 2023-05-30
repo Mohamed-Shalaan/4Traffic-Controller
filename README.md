@@ -2,7 +2,7 @@
   <img src="Assets/Header3.PNG" />
 </p>
 
-# <h1 align="center">4Traffic Controller</h1>
+# 4Traffic Controller
 An Arduino-based, small scale, cross-traffic controller
 
 
